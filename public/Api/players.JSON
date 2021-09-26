@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 1,
         "name": "Virat Kohli",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Virat_Kohli.jpg",
@@ -8,7 +7,7 @@
         "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
         "team": "Royal Challengers Bangalore"
     },
-    
+
     {
         "id": 2,
         "name": "AB de villiers",

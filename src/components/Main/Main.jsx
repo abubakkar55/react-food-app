@@ -49,7 +49,7 @@ const Main = () => {
                             onClick={() => filterPlayer("Royal Challengers Bangalore")}>
                             Royal Challengers Bangalore </button>
                     </div>
-                    <div className="container mx-auto grid grid-cols-3 gap-5">
+                    <div className="container mx-auto grid grid-cols-4 gap-5">
 
                         {
                             players.map(player => <Players player={player} key={player.id} />)
@@ -60,5 +60,4 @@ const Main = () => {
         </div>
     )
 }
-
-export default Main
+export default Main;
