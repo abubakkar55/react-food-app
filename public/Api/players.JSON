@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Virat_Kohli.jpg",
+        "role": "Batsman",
+        "age": 28,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Royal Challengers Bangalore"
+    },
+    
+    {
+        "id": 2,
+        "name": "AB de villiers",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVODmXq08LwbXQix8wbI2lppiER7jpq3fq5mdvBnVBrR46B43kOFmSDMPmwlOOpCmD4HY&usqp=CAU",
+        "role": "Wicket Keeper",
+        "age": 25,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Royal Challengers Bangalore"
+    },
+    {
+        "id": 3,
+        "name": "Devdutt Padikkal",
+        "img": "https://m.cricbuzz.com/a/img/v1/600x400/i1/c192831/an-ipl-debut-for-devdutt-padikkal-this-year-will-perfectly-align-with-his-sharp-rise-in-indian-cricket.jpg",
+        "role": "Batsman",
+        "age": 26,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Royal Challengers Bangalore"
+    },
+    {
+        "id": 4,
+        "name": "Wanindu Hasaranga",
+        "img": "https://swagcricket.com/wp-content/uploads/2021/05/Wanindu-Hasaranga-IPL-2022.jpg",
+        "role": "all Rounder",
+        "age": 28,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Royal Challengers Bangalore"
+    },
+    {
+        "id": 5,
+        "name": "Mahendra Singh Dhoni",
+        "img": "https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg",
+        "role": "Captin",
+        "age": 30,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Chennai Super Kings"
+    },
+    {
+        "id": 6,
+        "name": "Sam Curran",
+        "img": "https://cdn.insidesport.co/wp-content/uploads/2021/03/08210712/samcurran-1600750199.jpg",
+        "role": "Batsman",
+        "age": 25,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Chennai Super Kings"
+    },
+    {
+        "id": 7,
+        "name": "Suresh Raina",
+        "img": "https://cdn.insidesport.co/wp-content/uploads/2021/08/05202342/suresh-raina.jpg",
+        "role": "Batsman",
+        "age": 19,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Chennai Super Kings"
+    },
+    {
+        "id": 8,
+        "name": "Faf du Plessis",
+        "img": "https://cricketaddictor.gumlet.io/wp-content/uploads/2021/04/Faf-du-Plessis.jpeg?compress=true&quality=80&w=800&dpr=1.0",
+        "role": "Batsman",
+        "age": 31,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Chennai Super Kings"
+    },
+    {
+        "id": 9,
+        "name": "Sanju Samson",
+        "img": "https://www.homeoft20.com/wp-content/uploads/2021/01/28sanju-samson1.jpg",
+        "role": "Captin",
+        "age": 32,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Rajasthan Royals"
+    },
+    {
+        "id": 10,
+        "name": "Evin Lewis",
+        "img": "https://crickettimes.com/wp-content/uploads/2021/03/Evin-Lewis-hits-his-4th-ton-on-ODIs-1260x657.jpg",
+        "role": "Batsman",
+        "age": 34,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Rajasthan Royals"
+    },
+    {
+        "id": 11,
+        "name": "Mustafizur Rahman",
+        "img": "https://cdn.insidesport.co/wp-content/uploads/2021/03/26095645/1-2020-07-17T120354-3.jpg",
+        "role": "Bowler",
+        "age": 32,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Rajasthan Royals"
+    },
+    {
+        "id": 12,
+        "name": "Ben Stokes",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/299200/299220.4.jpg",
+        "role": "All Rounder",
+        "age": 35,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Rajasthan Royals"
+    },
+    {
+        "id": 13,
+        "name": "Dinesh Karthik",
+        "img": "https://english.cdn.zeenews.com/sites/default/files/2021/09/07/968439-dineshkarthikkkr.jpg",
+        "role": "Batsman",
+        "age": 36,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Kolkata Knight Riders"
+    },
+    {
+        "id": 14,
+        "name": "Varun Chakravarthy",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/311000/311017.6.jpg",
+        "role": "Batsman",
+        "age": 29,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Kolkata Knight Riders"
+    },
+    {
+        "id": 15,
+        "name": "Andre Russell",
+        "img": "https://content.stumpsandbails.com/wp-content/uploads/2020/09/Andre-Russell-2.jpg",
+        "role": "Batsman",
+        "age": 31,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Kolkata Knight Riders"
+    },
+
+    {
+        "id": 16,
+        "name": "Eoin Morgan",
+        "img": "https://images.news18.com/ibnlive/uploads/2021/08/1627982837_eoin-morgan-1600x1200.jpg",
+        "role": "Captin",
+        "age": 36,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Kolkata Knight Riders"
+    },
+    {
+        "id": 17,
+        "name": "KL Rahul",
+        "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/04/12/969469-kl-rahul.jpg",
+        "role": "captin",
+        "age": 35,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Punjab Kings"
+    },
+    {
+        "id": 18,
+        "name": "Chris Gayle",
+        "img": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2021/01/01/Pictures/_49d7be0c-4bef-11eb-8fd5-05c83db08e58.jpg",
+        "role": "Batsman",
+        "age": 39,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Punjab Kings"
+    },
+    {
+        "id": 19,
+        "name": "Nicholas Pooran",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/319500/319573.jpg",
+        "role": "Batsman",
+        "age": 28,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Punjab Kings"
+    },
+    {
+        "id": 20,
+        "name": "Mohammed Shami",
+        "img": "https://static.toiimg.com/thumb/msid-78653735,width-1200,height-900,resizemode-4/.jpg",
+        "role": "bowler",
+        "age": 38,
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro vel commodi aliquid!",
+        "team": "Punjab Kings"
+    }
+
+]
